@@ -1,0 +1,9 @@
+Column,Test_Accuracy
+text_no_punctuation,0.9224577198411954
+text_with_punctuation,0.9217856138047453
+text_without_negations,0.927146831723405
+text_with_negations,0.9252399262246397
+data_text_1,0.9266466597893026
+data_text_2,0.9256306855481572
+data_text_3,0.9202694676294977
+data_text_4,0.9237706711682141
